@@ -25,3 +25,4 @@ hs_err_pid*
 # Default ignored files
 *.iml
 .idea/*
+*/target/
